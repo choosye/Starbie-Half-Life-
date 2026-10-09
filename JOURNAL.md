@@ -41,9 +41,7 @@ Ran into my first big problem when assigning footprints! Only found out when I t
 For this session, I decided to start designing how Starbie would look like and how it would function!
 
 ![IMG_0376](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/7723a96748265b90eac205ce936074ff46dcc70b6706c5f002cd9d2212f34a65.png)
-Decided it would be a desk buddy which could also double as a keychain so it’s really a ‘companion’ :)  Brainstormed on how Starbie would function and help out with productivity + aesthetics; gonna have reminders to stretch and drink water cos we sit at our desks for wayy too long
-For the displays, I settled on a basic 3 pages: Starbie faces, date&time, temp&weather which will be interchangeable with the buttons!
-Speaking of buttons, I took quite a while to think of how I should make use of them, but ultimately found a solution! ^
+Decided it would be a desk buddy which could also double as a keychain so it’s really a ‘companion’ :)  Brainstormed on how Starbie would function and help out with productivity + aesthetics
 
 ![IMG_6847](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5P3Dphgp8XJhnIuD5gc00fblVm4s8Lon/153780a720dd05a948a4639ee42d5e6f05e6cc4cd01624e784be1824305a5afd.jpg)
 After the brainstorming, I got back to KiCad and started to design the PCB :) and back to following the guide!
